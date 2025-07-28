@@ -1,0 +1,50 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/Users/LCOU/AppData/Local/Programs/Python/Python313/include",
+                "c:/Users/LCOU/Documents/GitHub/adk-rag-agent/**",
+                "C:/Strawberry/c/include/python3.9"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Strawberry\\c\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPathInCppPropertiesJson": "C:\\Strawberry\\c\\bin\\gcc.exe",
+            "mergeConfigurations": false,
+            "recursiveIncludes": {},
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true
+            }
+        },
+        {
+            "name": "IBMi",
+            "includePath": [
+                "c:/Users/LCOU/Documents/GitHub/adk-rag-agent/**",
+                "C:\\Users\\LCOU\\AppData\\Local\\Programs\\Python\\Python313\\include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Strawberry\\c\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPathInCppPropertiesJson": "C:\\Strawberry\\c\\bin\\gcc.exe",
+            "mergeConfigurations": false,
+            "recursiveIncludes": {},
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
